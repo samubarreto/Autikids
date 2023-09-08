@@ -13,3 +13,11 @@ Aplicação de comunicação alternativa de alta tecnologia voltada a melhorar a
 
 ## **Vídeo Demonstrativo**
 * https://www.youtube.com/watch?v=HsBhddAzQME
+
+![image](https://github.com/sampbrt/Autikids/assets/70921394/591874da-c288-4689-af88-c3b4bde2a1c1)
+
+![image](https://github.com/sampbrt/Autikids/assets/70921394/7a96ed71-350c-4007-b2cb-8aaf7c996b61)
+
+![image](https://github.com/sampbrt/Autikids/assets/70921394/90339ecc-79a7-451e-88e5-b783523ba620)
+
+![image](https://github.com/sampbrt/Autikids/assets/70921394/73a33e17-f25d-4d25-9797-e314f618d8ba)
