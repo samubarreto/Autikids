@@ -20,5 +20,5 @@ Aplicação de comunicação alternativa de alta tecnologia voltada a melhorar a
 > ![image](https://github.com/sampbrt/Autikids/assets/70921394/90339ecc-79a7-451e-88e5-b783523ba620)
 > ![image](https://github.com/sampbrt/Autikids/assets/70921394/73a33e17-f25d-4d25-9797-e314f618d8ba)
 
-# [📁 Meu Portfólio (Clique Aqui ↗️)](https://samubarreto.github.io/Portfolio/)
-  [![github-banner](https://github.com/samubarreto/samubarreto/assets/70921394/e24ccd55-edf4-4648-b0f9-ebf9b13a67cc)](https://samubarreto.github.io/Portfolio/)
+[👇 Veja meu portfólio abaixo](https://samubarreto.github.io/Portfolio/)<br>
+  [![github-banner](https://github.com/samubarreto/samubarreto/assets/70921394/09b2b8b6-8264-4e34-a224-bf009f7307b5)](https://samubarreto.github.io/Portfolio/)
