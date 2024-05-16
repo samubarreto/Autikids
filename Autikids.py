@@ -1666,7 +1666,8 @@ def j2():
 #janela inicial =)
 janela = Tk()
 janela.title('Autikids')
-janela.iconbitmap('icon.ico')
+icon = ('icon.ico')
+janela.iconbitmap(icon)
 
 imgCanvas = PhotoImage(file='canvas2.png')
 canvasHud = Canvas(janela, width=471, height=331, bg='orange', highlightthickness=0)
